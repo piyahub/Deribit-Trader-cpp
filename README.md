@@ -100,10 +100,6 @@ getOrderBook("ETH-PERPETUAL", accessToken);
 - Extend WebSocket functionality to include additional data types like trades and positions.
 - Optimize performance using multi-threading for handling high client traffic and lower latency.
 
-## Contact
-For inquiries or contributions:
-- **Email:** [shubham.more@iitgn.ac.in](mailto:shubham.more@iitgn.ac.in)
-
 ---
 This project showcases advanced C++ programming skills, expertise in WebSocket development, and proficiency in API integration. It is designed with modularity and scalability, making it a robust solution for real-time trading systems.
 
